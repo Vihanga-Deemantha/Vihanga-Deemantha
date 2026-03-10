@@ -12,7 +12,7 @@
   <a href="https://github.com/Vihanga-Deemantha">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/vihanga-deemanthaa-929879292">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -96,11 +96,7 @@ I am a **Beginner who recently started to learn Machine Learning and Deep Learni
 ### ☯️ Path of the Shinobi
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHN3ZzJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fS72lRE7N1L2n06W7m/giphy.gif" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vihanga-Deemantha/Vihanga-Deemantha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="./assets/naruto-gif-4.gif" width="400" />
 </p>
 
 <div align="center">
