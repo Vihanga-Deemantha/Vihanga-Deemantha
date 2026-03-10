@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHN3ZzJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/vA8BndLKh1n39W6Y5M/giphy.gif" width="300" />
+  <img src="./assets/SfoRXO.gif" width="400" />
 </p>
 
 <h1 align="center">🐉 Machine Learning Enthusiast & Full-Stack Developer 🐉</h1>
@@ -36,32 +36,46 @@ I am a passionate **Machine Learning Enthusiast** building end-to-end intelligen
 
 ### 🛠️ Tech Stack & Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,numpy,js,nodejs,express,react,mongodb,postgres,docker,git,github,vscode,html,css" />
+</p>
+
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <b>Machine Learning & Data</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/XGBoost-blue?style=flat-square" />
+      <b>🧠 AI & Machine Learning</b><br/><br/>
+      <code>Python</code> <code>Scikit-Learn</code> <code>Pandas</code><br/>
+      <code>NumPy</code> <code>XGBoost</code> <code>Feature Engineering</code>
     </td>
     <td align="center" width="33%">
-      <b>Web Development</b><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <b>🌐 Web Development</b><br/><br/>
+      <code>JavaScript</code> <code>Node.js</code> <code>React</code><br/>
+      <code>Express</code> <code>FastAPI</code> <code>REST APIs</code>
     </td>
     <td align="center" width="33%">
-      <b>Tools & DevOps</b><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <b>⚙️ DevOps & Tools</b><br/><br/>
+      <code>Git</code> <code>Docker</code> <code>PostgreSQL</code><br/>
+      <code>MongoDB</code> <code>GitHub Actions</code> <code>Vercel</code>
     </td>
   </tr>
 </table>
+
+---
+
+### 📈 Activity & Insights
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vihanga-Deemantha&theme=teal-accent&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vihanga-Deemantha&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihanga-Deemantha&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vihanga-Deemantha&theme=tokyonight&hide_border=false" width="100%" />
+</p>
 
 ---
 
@@ -79,19 +93,6 @@ I am a passionate **Machine Learning Enthusiast** building end-to-end intelligen
 #### 🧘 [Better-Me](https://github.com/Vihanga-Deemantha/Better-Me)
 *A mobile-first productivity app designed to improve daily habits.*
 - **Tech**: JavaScript, React Native.
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vihanga-Deemantha&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihanga-Deemantha&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vihanga-Deemantha&theme=tokyonight&hide_border=false" width="100%" />
-</p>
 
 ---
 
