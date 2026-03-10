@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=200&section=header&text=Vihanga%20Deemantha&fontSize=70&animation=fadeIn&fontAlignY=35&theme=gradient" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=702cf6&height=200&section=header&text=Vihanga%20Deemantha&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" width="100%" />
 </div>
 
 <p align="center">
-  <img src="./assets/SfoRXO.gif" width="400" />
+  <img src="./assets/SfoRXO.gif" width="500" />
 </p>
 
-<h1 align="center">🐉 Machine Learning Enthusiast & Full-Stack Developer 🐉</h1>
+<h1 align="center">☯️ Beginner ML & Deep Learning Explorer ☯️</h1>
 
 <p align="center">
   <a href="https://github.com/Vihanga-Deemantha">
@@ -18,19 +18,19 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Building+the+Future+with+AI;Exploring+ML+Algorithms;Full-Stack+Web+Developer;Formula+1+Predictions+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=702cf6&center=true&vCenter=true&width=500&lines=Learning+Machine+Learning;Exploring+Deep+Learning;Building+AI+Future;Formula+1+Predictions+Beginner" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I am a passionate **Machine Learning Enthusiast** building end-to-end intelligent systems. Currently, I'm diving deep into predictive modeling and data engineering, with a focus on sports analytics and productivity tools.
+I am a **Beginner who recently started to learn Machine Learning and Deep Learning**. I am passionate about building end-to-end intelligent systems and exploring the depths of AI architectures.
 
-- 🔭 **Current Focus**: Enhancing the **F1 Grand Prix Predictor** using advanced XGBoost and CatBoost models.
-- 🌱 **Learning**: Deep Learning architectures (CNNs, RNNs) and PyTorch.
-- 💬 **Interests**: Data Pipelines, Feature Engineering, and Scalable Backend Systems.
-- ⚡ **Fun Fact**: I combine my love for Formula 1 with Python to predict race outcomes!
+- 🔭 **Current Focus**: Mastering the fundamentals of Neural Networks and Computer Vision.
+- 🌱 **Learning**: scikit-learn, PyTorch, and NLP architectures.
+- 💬 **Interests**: Data Science, AI Ethics, and Sports Analytics.
+- ⚡ **Fun Fact**: I'm a Naruto fan on a journey to master the "Jutsu" of Data Science!
 
 ---
 
@@ -65,16 +65,16 @@ I am a passionate **Machine Learning Enthusiast** building end-to-end intelligen
 ### 📈 Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vihanga-Deemantha&theme=teal-accent&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vihanga-Deemantha&theme=dracula&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vihanga-Deemantha&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihanga-Deemantha&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vihanga-Deemantha&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vihanga-Deemantha&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vihanga-Deemantha&theme=tokyonight&hide_border=false" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Vihanga-Deemantha&theme=dracula&hide_border=false" width="100%" />
 </p>
 
 ---
@@ -82,32 +82,33 @@ I am a passionate **Machine Learning Enthusiast** building end-to-end intelligen
 ### 🌟 Featured Projects
 
 #### 🏎️ [F1 Grand Prix Predictor](https://github.com/Vihanga-Deemantha/health-checks)
-*A full-stack ML application predicting race winners and podium finishes.*
+*Learning ML through sports analytics.*
 - **Tech**: Python, Scikit-Learn, FastAPI, React.
-- **Outcome**: Automated data ingestion from FastF1 and historical race databases.
 
 #### 📝 [My Notes](https://github.com/Vihanga-Deemantha/My_Notes)
-*A sleek, modern note-taking application for productive developers.*
-- **Tech**: Node.js, Express, MongoDB.
+*Productivity tool for organized learning.*
 
 #### 🧘 [Better-Me](https://github.com/Vihanga-Deemantha/Better-Me)
-*A mobile-first productivity app designed to improve daily habits.*
-- **Tech**: JavaScript, React Native.
+*Habit tracker to master daily discipline.*
 
 ---
 
-### 🐉 Guardians of Code
+### ☯️ Path of the Shinobi
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eHN3ZzJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6ZjJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fS72lRE7N1L2n06W7m/giphy.gif" width="400" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vihanga-Deemantha/Vihanga-Deemantha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <div align="center">
-  <i>"Predicting the future by building it, one commit at a time."</i>
+  <i>"Believe it! Every long journey begins with a single commit."</i>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Dynamic_Dragon_Profile-Activated-crimson?style=for-the-badge&logo=skyliner" />
+  <img src="https://img.shields.io/badge/Naruto_Theme-Activated-8A2BE2?style=for-the-badge&logo=shirtdotcom" />
 </div>
