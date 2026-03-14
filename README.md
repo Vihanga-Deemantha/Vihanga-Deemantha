@@ -6,7 +6,7 @@
   <img src="./assets/SfoRXO.gif" width="500" />
 </p>
 
-<h1 align="center">☯️ Beginner ML & Deep Learning Explorer ☯️</h1>
+<h1 align="center">☯️ Software Engineering Undergraduate | Beginner ML & Deep Learning Explorer ☯️</h1>
 
 <p align="center">
   <a href="https://github.com/Vihanga-Deemantha">
@@ -18,19 +18,19 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=702cf6&center=true&vCenter=true&width=500&lines=Learning+Machine+Learning;Exploring+Deep+Learning;Building+AI+Future;Formula+1+Predictions+Beginner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=702cf6&center=true&vCenter=true&width=530&lines=Software+Engineering+Undergrad;Learning+Machine+Learning;Exploring+Deep+Learning;Building+AI+Future" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I am a **Beginner who recently started to learn Machine Learning and Deep Learning**. I am passionate about building end-to-end intelligent systems and exploring the depths of AI architectures.
+I am a **third-year Software Engineering Undergraduate** whose favored path is towards an **ML Engineer / AI Engineer**. I am also a **Beginner who recently started to learn Machine Learning and Deep Learning**. I am passionate about building end-to-end intelligent systems and exploring the depths of AI architectures.
 
 - 🔭 **Current Focus**: Mastering the fundamentals of Neural Networks and Computer Vision.
 - 🌱 **Learning**: scikit-learn, PyTorch, and NLP architectures.
-- 💬 **Interests**: Data Science, AI Ethics, and Sports Analytics.
-- ⚡ **Fun Fact**: I'm a Naruto fan on a journey to master the "Jutsu" of Data Science!
+- 💬 **Interests**: Software Engineering, AI Ethics, and Intelligent Systems.
+- ⚡ **Fun Fact**: I'm a Naruto fan on a journey to master the "Jutsu" of AI!
 
 ---
 
@@ -80,10 +80,6 @@ I am a **Beginner who recently started to learn Machine Learning and Deep Learni
 ---
 
 ### 🌟 Featured Projects
-
-#### 🏎️ [F1 Grand Prix Predictor](https://github.com/Vihanga-Deemantha/health-checks)
-*Learning ML through sports analytics.*
-- **Tech**: Python, Scikit-Learn, FastAPI, React.
 
 #### 📝 [My Notes](https://github.com/Vihanga-Deemantha/My_Notes)
 *Productivity tool for organized learning.*
